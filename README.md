@@ -1,13 +1,13 @@
 # Executive Summary
 ## Issues found
                         
-| Audit 				  | C | H | M | L | I | G | Total | Report Link 
-| ----------------------- | - | - | - | - | - | - | ----- | ----------- 
-| 3-Passwordstore-audit   | 0 | 2 | 0 | 1 | 1 | 0 |  4    | [Report](https://github.com/Patrick-Ngururi/updraft-security-portfolio/blob/main/2025-06-26-password-audit.pdf)
-| 4-Puppy-raffle-audit	  | 0 | 4 | 3 | 1 | 7 | 2 | 17    | [Report](https://github.com/Patrick-Ngururi/updraft-security-portfolio/blob/main/2025-10-6-Puppy-Raffle-Audit.pdf)
-| 5-tswap-audit			  | 0 | 5 | 2 | 2 | 5 | 0 | 14    | [Report](https://github.com/Patrick-Ngururi/updraft-security-portfolio/blob/main/2025-11-07-tswap-audit.pdf)
-| 6-thunderloan-audit     | 0 | 3 | 2 | 3 | 4 | 3 | 15    | [Report](https://github.com/Patrick-Ngururi/updraft-security-portfolio/blob/main/2025-12-14-thunder-loan-audit.pdf)
-| 7-boss-bridge-audit 	  | 0 |   |   |   |   |   |       | 
+| Audit 				  |Language  | Findings           | Report  
+| ----------------------- | -------- | ------------------ | ------------------------
+| 3-Passwordstore-audit   | Solidity | 2H, 1L, 1I         | [Report](https://github.com/Patrick-Ngururi/updraft-security-portfolio/blob/main/2025-06-26-password-audit.pdf)
+| 4-Puppy-raffle-audit	  | Solidity | 4H, 3M, 1L, 7I, 2G | [Report](https://github.com/Patrick-Ngururi/updraft-security-portfolio/blob/main/2025-10-6-Puppy-Raffle-Audit.pdf)
+| 5-tswap-audit			  | Solidity | 5H, 2M, 2L, 5I     | [Report](https://github.com/Patrick-Ngururi/updraft-security-portfolio/blob/main/2025-11-07-tswap-audit.pdf)
+| 6-thunderloan-audit     | Solidity | 3H, 2M, 3L, 4I, 3G | [Report](https://github.com/Patrick-Ngururi/updraft-security-portfolio/blob/main/2025-12-14-thunder-loan-audit.pdf)
+| 7-boss-bridge-audit 	  | Solidity | 
 
 
 
