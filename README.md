@@ -7,7 +7,7 @@
 | 4-Puppy-raffle-audit	  | Solidity | 4H, 3M, 1L, 7I, 2G | [Report](https://github.com/Patrick-Ngururi/updraft-security-portfolio/blob/main/2025-10-6-Puppy-Raffle-Audit.pdf)
 | 5-tswap-audit			  | Solidity | 5H, 2M, 2L, 5I     | [Report](https://github.com/Patrick-Ngururi/updraft-security-portfolio/blob/main/2025-11-07-tswap-audit.pdf)
 | 6-thunderloan-audit     | Solidity | 3H, 2M, 3L, 4I, 3G | [Report](https://github.com/Patrick-Ngururi/updraft-security-portfolio/blob/main/2025-12-14-thunder-loan-audit.pdf)
-| 7-boss-bridge-audit 	  | Solidity | 
+| 7-boss-bridge-audit 	  | Solidity | 8H, 1M, 3L, 1I      | [Report](https://github.com/Patrick-Ngururi/updraft-security-portfolio/blob/main/2026-01-22-boss-bridge-audit.pdf)  
 
 
 
